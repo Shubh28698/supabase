@@ -4,7 +4,7 @@
 
 ---
 
-# Supabase
+# Supabase⚡
 
 [Supabase](https://supabase.com) is an open source Firebase alternative. We're building the features of Firebase using enterprise-grade open source tools.
 
@@ -16,13 +16,13 @@
 - [x] Storage
 - [ ] Functions (coming soon)
 
-## Documentation
+## Documentation📄
 
 For full documentation, visit [supabase.com/docs](https://supabase.com/docs)
 
 To see how to Contribute, visit [Getting Started](./DEVELOPERS.md)
 
-## Community & Support
+## Community & Support🧑‍🤝‍🧑
 
 - [Community Forum](https://github.com/supabase/supabase/discussions). Best for: help with building, discussion about database best practices.
 - [GitHub Issues](https://github.com/supabase/supabase/issues). Best for: bugs and errors you encounter using Supabase.
